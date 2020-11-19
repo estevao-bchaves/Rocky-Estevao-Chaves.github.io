@@ -1,1 +1,1 @@
-https://estevao-bchaves.github.io/RockyChaves.github.io/.
+https://estevao-bchaves.github.io/RockyChaves/.
