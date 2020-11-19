@@ -3,7 +3,7 @@ body, html{
   }
     
     body {
-    margin-top: 80px;
+    margin-top: 100px;
   
     text-align: center;
     text-decoration: none;
@@ -13,14 +13,13 @@ body, html{
     height: 100%;
   }
   .btn-div{
-    padding: 24px;
+    padding: 60px;
     text-align: end ;
 }
 .btn {
     border: solid;
     background-color:  yellow;
     border-color: black;
-    border-top: none;
     font-weight: bolder;
     color:  #000000;
     padding: 15px 32px;
@@ -44,7 +43,7 @@ body, html{
     }
 
     .text{
-      padding: 100px ;
+      padding: 200px ;
       padding-top: 0;
       text-align: justify;
   
@@ -66,7 +65,7 @@ body, html{
       font-weight: bolder;
       font-size: larger;
       border: solid;
-      padding: 20px;
+      padding: 50px;
       border-radius: 10%;
       border-color: darkgray;
     }
